@@ -22,6 +22,8 @@ public class GameDTO {
         BeanUtils.copyProperties(entity, this); // copia os atributos, desde que tenham o mesmo nome
     }
 
+    // COMO IMPLEMENTEI O BEANUTILS PRECISA POR O SET
+
     public Long getId() {
         return id;
     }
