@@ -8,7 +8,7 @@ O projeto foi desenvolvido durante um intensivão de 1 semana da DevSuperior, on
 ![modelo de dominio](https://github.com/MathCouti/Assets/blob/main/Intensivao-java-devsuperior-2025/modelo%20de%20dominio.png)
 
 ## | Tecnologias utilizadas
-# BACK-END
+### BACK-END
 - Java
 - Spring Boot
 - JPA / Hibernate
